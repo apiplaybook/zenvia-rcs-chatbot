@@ -1,6 +1,6 @@
 # zenvia-rcs-chatbot
 
-Este projeto tem um exemplo de como criar um chatbot para mensagens RCS usando a API da Zenvia.
+Este projeto tem um exemplo de como criar um chatbot para mensagens RCS usando a API da Zenvia e foi desenvolvido no [artigo escrito na Prensa.li](https://prensa.li/zenvia/fortaleca-sua-comunicacao-com-rcs/) sobre RCS.
 
 ## Como rodar a aplicação
 
